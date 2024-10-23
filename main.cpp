@@ -3,6 +3,7 @@ using namespace std;
 int add(int a, int b);
 int main()
 {
+    cout<<"My name is Tom\n";
     cout<<"hello world\n";
     cout<<"5 + 7 = "<<add(5,7)<<endl;
     return 0;
